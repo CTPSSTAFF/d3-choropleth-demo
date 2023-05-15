@@ -80,5 +80,6 @@ function generateMap(townsFeatureCollection) {
 		.text("Population Density in 2010 (pop/sq-mi)");					
 }
 
-// Load the GeoJSON data, and call function to generate map from it.
+// This is where execution begins:
+// Load the GeoJSON data, and call 'generateMap' function to generate map from it.
 d3.json("json/TOWNS_POLYM.geo.json").then((data) => { generateMap(data); });
