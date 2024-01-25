@@ -35,4 +35,19 @@ from the __colorbrewer__ library
 9. Create the SVG \<text\> elements for the legend's caption
 10. Create the SVG \<text\> elements for the second line of text in the legend
 
-See [this repository](https://github.com/bkrepp-ctps/d3-thematic-map-demo) for information on steps \(3\) and \(4\).
+See [this repository](https://github.com/CTPSSTAFF/d3-thematic-map-demo) for information on steps \(3\) and \(4\).
+
+## Running the app
+* Clone the repository into a directory, call it 'x'
+* 'cd x'
+* python -m http.server 8888 --bind localhost
+* In a web browser:
+  * http://localhost:8888
+
+## Colophon
+Author: [Ben Krepp](mailto:bkrepp@ctps.org)  
+Address: Central Transportation Planning Staff, Boston Region Metropolitan Planning Agency  
+10 Park Plaza  
+Suite 2150  
+Boston, MA 02116  
+United States
