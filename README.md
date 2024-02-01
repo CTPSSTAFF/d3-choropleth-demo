@@ -36,3 +36,13 @@ from the __colorbrewer__ library
 10. Create the SVG \<text\> elements for the second line of text in the legend
 
 See [this repository](https://github.com/bkrepp-ctps/d3-thematic-map-demo) for information on steps \(3\) and \(4\).
+
+## Colophon
+Author: [Ben Krepp](mailto:bkrepp@ctps.org)  
+Address: Central Transportation Planning Staff, Boston Region Metropolitan Planning Agency  
+10 Park Plaza  
+Suite 2150  
+Boston, MA 02116  
+United States
+
+
